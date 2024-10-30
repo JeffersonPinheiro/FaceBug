@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|c:\\users\\jefferson pinheiro\\source\\repos\\facebug.profileapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|c:\\users\\jefferson pinheiro\\source\\repos\\facebug.profileapi\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|solutionrelative:context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|c:\\users\\jefferson pinheiro\\source\\repos\\facebug.profileapi\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|solutionrelative:models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|c:\\users\\jefferson pinheiro\\source\\repos\\facebug.profileapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|c:\\users\\jefferson pinheiro\\source\\repos\\facebug.profileapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|c:\\users\\jefferson pinheiro\\source\\repos\\facebug.profileapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{093501AD-68CF-4FE5-A1FF-41EAD995C3F0}|FaceBug.ProfileApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Context\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Context\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Context\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:21:52.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T16:45:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:50:27.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:10:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:41:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Models\\ProfileModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProfileModel.cs",
+              "ToolTip": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\Models\\ProfileModel.cs",
+              "RelativeToolTip": "Models\\ProfileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:28:51.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

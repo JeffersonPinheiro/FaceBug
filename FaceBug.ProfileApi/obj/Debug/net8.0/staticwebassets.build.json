@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CCUaXWEgZIGaqZCrysUGM6fvwuG23xlR35fA7YEA6YQ=",
+  "Source": "FaceBug.ProfileApi",
+  "BasePath": "_content/FaceBug.ProfileApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
