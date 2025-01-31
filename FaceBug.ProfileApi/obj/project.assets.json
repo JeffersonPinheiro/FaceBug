@@ -4518,11 +4518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\FaceBug.ProfileApi.csproj",
+      "projectUniqueName": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug\\FaceBug.ProfileApi\\FaceBug.ProfileApi.csproj",
       "projectName": "FaceBug.ProfileApi",
-      "projectPath": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\FaceBug.ProfileApi.csproj",
+      "projectPath": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug\\FaceBug.ProfileApi\\FaceBug.ProfileApi.csproj",
       "packagesPath": "C:\\Users\\Jefferson Pinheiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug.ProfileApi\\obj\\",
+      "outputPath": "C:\\Users\\Jefferson Pinheiro\\source\\repos\\FaceBug\\FaceBug.ProfileApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jefferson Pinheiro\\AppData\\Roaming\\NuGet\\NuGet.Config",

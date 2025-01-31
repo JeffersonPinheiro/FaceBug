@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaceBug.ProfileApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3c83fa68ffc8527841dfcf4d897d66ffcbc5289")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaceBug.ProfileApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaceBug.ProfileApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
