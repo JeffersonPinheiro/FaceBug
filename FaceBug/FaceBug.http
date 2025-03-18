@@ -1,0 +1,6 @@
+@FaceBug_HostAddress = http://localhost:5269
+
+GET {{FaceBug_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
