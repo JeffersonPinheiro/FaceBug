@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "E:\\Projetos\\FaceBug\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\controllers\\logincotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\controllers\\logincotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\facebug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\facebug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Models\\UserDto.cs",
-              "RelativeDocumentMoniker": "FaceBug\\Models\\UserDto.cs",
-              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Models\\UserDto.cs",
-              "RelativeToolTip": "FaceBug\\Models\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:29:56.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "FaceBug\\Entities\\User.cs",
-              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Entities\\User.cs",
-              "RelativeToolTip": "FaceBug\\Entities\\User.cs",
+              "Title": "FaceBug",
+              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\FaceBug.csproj",
+              "RelativeDocumentMoniker": "FaceBug\\FaceBug.csproj",
+              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\FaceBug.csproj",
+              "RelativeToolTip": "FaceBug\\FaceBug.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:29:40.567Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T23:48:44.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "FaceBug\\Controllers\\RegisterController.cs",
-              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "FaceBug\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Program.cs",
+              "RelativeDocumentMoniker": "FaceBug\\Program.cs",
+              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Program.cs",
+              "RelativeToolTip": "FaceBug\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:28:27.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginCotroller.cs",
-              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Controllers\\LoginCotroller.cs",
-              "RelativeDocumentMoniker": "FaceBug\\Controllers\\LoginCotroller.cs",
-              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Controllers\\LoginCotroller.cs",
-              "RelativeToolTip": "FaceBug\\Controllers\\LoginCotroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T15:28:00.697Z",
+              "WhenOpened": "2025-03-18T23:40:34.419Z",
               "EditorCaption": ""
             }
           ]
