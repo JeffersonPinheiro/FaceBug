@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\Projetos\\FaceBug\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\facebug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\facebug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|e:\\projetos\\facebug\\facebug\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A449042-EB34-4F63-85AF-7418A8FF87D4}|FaceBug\\FaceBug.csproj|solutionrelative:facebug\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FaceBug",
-              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\FaceBug.csproj",
-              "RelativeDocumentMoniker": "FaceBug\\FaceBug.csproj",
-              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\FaceBug.csproj",
-              "RelativeToolTip": "FaceBug\\FaceBug.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T23:48:44.239Z",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FaceBug\\Entities\\User.cs",
+              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Entities\\User.cs",
+              "RelativeToolTip": "FaceBug\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:44:35.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "FaceBug\\Data\\UserDbContext.cs",
+              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "FaceBug\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:33:57.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\appsettings.json",
+              "RelativeDocumentMoniker": "FaceBug\\appsettings.json",
+              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\appsettings.json",
+              "RelativeToolTip": "FaceBug\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T17:18:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FaceBug\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FaceBug\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:42:08.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projetos\\FaceBug\\FaceBug\\Program.cs",
               "RelativeDocumentMoniker": "FaceBug\\Program.cs",
               "ToolTip": "E:\\Projetos\\FaceBug\\FaceBug\\Program.cs",
               "RelativeToolTip": "FaceBug\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T23:40:34.419Z",
               "EditorCaption": ""
