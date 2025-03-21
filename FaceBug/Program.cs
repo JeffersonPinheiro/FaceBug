@@ -1,4 +1,5 @@
 using FaceBug.Data;
+using FaceBug.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -13,6 +14,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<UserDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("UserDatabase")));
+
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
 
