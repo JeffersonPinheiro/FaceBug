@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaceBug")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+657d308fdd91075e0383952cf71b70cff3302d46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1daacf1c563a32e65b30264e4c48692abd7dd223")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaceBug")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaceBug")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

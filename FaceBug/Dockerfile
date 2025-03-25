@@ -1,30 +1,30 @@
-# Acesse https://aka.ms/customizecontainer para saber como personalizar seu contêiner de depuração e como o Visual Studio usa este Dockerfile para criar suas imagens para uma depuração mais rápida.
-
-# Esta fase é usada durante a execução no VS no modo rápido (Padrão para a configuração de Depuração)
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-USER $APP_UID
-WORKDIR /app
-EXPOSE 8080
-EXPOSE 8081
-
-
-# Esta fase é usada para compilar o projeto de serviço
+# Etapa de build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["FaceBug/FaceBug.csproj", "FaceBug/"]
-RUN dotnet restore "./FaceBug/FaceBug.csproj"
-COPY . .
-WORKDIR "/src/FaceBug"
-RUN dotnet build "./FaceBug.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
-# Esta fase é usada para publicar o projeto de serviço a ser copiado para a fase final
+# Copia o arquivo de projeto e restaura as dependências
+COPY ["FaceBug/FaceBug.csproj", "./"]
+RUN dotnet restore "./FaceBug.csproj"
+
+# Copia o restante do código
+COPY FaceBug/. .
+WORKDIR "/src"
+
+# Compila a aplicação
+RUN dotnet build "./FaceBug.csproj" -c Release -o /app/build
+
+# Etapa de publicação
 FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./FaceBug.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "./FaceBug.csproj" -c Release -o /app/publish
 
-# Esta fase é usada na produção ou quando executada no VS no modo normal (padrão quando não está usando a configuração de Depuração)
-FROM base AS final
+# Etapa final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
+# Expõe a porta 80 e define o comando de entrada
+EXPOSE 80
 ENTRYPOINT ["dotnet", "FaceBug.dll"]
+
+RUN echo "Ambiente de execução: Produção"
+CMD ["dotnet", "FaceBug.dll"]
